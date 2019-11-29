@@ -1,0 +1,1 @@
+This is Mtroga's first git project!
